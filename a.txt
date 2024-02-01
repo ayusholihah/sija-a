@@ -1,4 +1,5 @@
 Nama : imroati Ayu Sholihah
 Jurusan : SIJAA 
-TTL : Klaten, 24Februari 2006
+TTL : Klaten, 24 Februari 2006
 is_bisa_ngreog : False
+Usia: 18
